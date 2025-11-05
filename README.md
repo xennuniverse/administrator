@@ -2,7 +2,7 @@
 administrator server
 # menambah user dan akses
 **add user** 
-```bash
++ ```bash
 sudo useradd -m user
 ```
 - **useradd** menambahkan user baru
