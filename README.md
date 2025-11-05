@@ -9,6 +9,8 @@ sudo useradd -m user
 
 - **-m** untuk membuat direktori home untuk pengguna baru
 
+<img src="/images/add.png" alt="menambahkan user" width="600" haigh="600">
+
 **memberikan hak administrator untuk user baru**
 ```bash
 sudo usermod -aG sudo user
